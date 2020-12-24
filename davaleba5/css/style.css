@@ -141,10 +141,11 @@
 }
 
 .sec2-p {
+    width: 500px;
     font-weight: 500;
     font-family: 'Poppins';
     font-size: 14px;
-    margin-left: 58px;
+    margin-left: 46px;
     color: #B1B1B1;
     margin-bottom:23px;
     text-indent: 20px;
