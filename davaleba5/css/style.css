@@ -141,6 +141,7 @@
 }
 
 .sec2-p {
+    width: 260px;
     font-weight: 500;
     font-family: 'Poppins';
     font-size: 14px;
@@ -155,7 +156,7 @@
 .sec2-mid-block,
 .sec2-right-block {
     margin-top: 50px;
-    width: 370px;
+    width: 352px;
     background-color: #F8F8F8;
 }
 
